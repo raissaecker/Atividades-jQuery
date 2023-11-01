@@ -1,0 +1,21 @@
+.box {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cronometro {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.botao {
+    width: 80px;
+    height: 30px;
+    margin-top: 5px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+    justify-content: center;
+}
